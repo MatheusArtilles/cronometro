@@ -1,0 +1,60 @@
+body {
+    overflow-x: hidden;
+}
+#cronometro {
+    margin-top: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    font-family: 'alarm clock', sans-serif;
+    
+}
+#botoes {
+    margin-top: 15px;
+    
+}
+#texto h1 {
+    font-size: 5em;
+}
+.btn-custom {
+    border-radius: 100px;
+    text-transform: uppercase;
+    margin: 10px;
+    padding: 15px 20px;
+    transition: background 0.4s, color 0.4s;
+}
+.btn-1 {
+    background: #37dc00;
+    width: 300px;
+    color: #fff;
+    font-weight: bold;
+}
+.btn-1:hover {
+    background: #00dc54;
+    color: #000;
+
+}
+.btn-2 {
+    background: #fcf000;
+    width: 300px;
+    color: #fff;
+    font-weight: bold;
+}
+.btn-2:hover {
+    background: #fff53ce9;
+    color: #000;
+    
+}
+.btn-3 {
+    background: #fc0000;
+    width: 300px;
+    color: #fff;
+    font-weight: bold;
+}
+.btn-3:hover {
+    background: #d00000;
+    color: #000;
+}
+#cor-fundo {
+    transition: 0.4s;
+}
